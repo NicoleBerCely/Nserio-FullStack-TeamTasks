@@ -1,0 +1,6 @@
+@BackendNSerio_HostAddress = http://localhost:5119
+
+GET {{BackendNSerio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

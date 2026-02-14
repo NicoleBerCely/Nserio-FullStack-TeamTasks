@@ -1,0 +1,107 @@
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Dal\obj\Debug\net8.0\ref\Dal.dll

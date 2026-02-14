@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YOLFn/u8RDw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicol\\Documents\\PRO\\backend\\Dto\\Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicol\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Nicol\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Nicol\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\Nicol\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

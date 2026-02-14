@@ -1,0 +1,627 @@
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\source\repos\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Moq.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Moq.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Moq.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.sourcelink.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\Downloads\FullStack\backend\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.staticwebassets.endpoints.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.exe
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.deps.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.runtimeconfig.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Dapper.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Moq.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.sourcelink.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\scopedcss\bundle\BackendNSerio.styles.css
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendN.AEDB9355.Up2Date
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\refint\BackendNSerio.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\BackendNSerio.genruntimeconfig.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\BackendNSerio\obj\Debug\net8.0\ref\BackendNSerio.dll

@@ -1,0 +1,121 @@
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\source\repos\BackendNSerio\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio\BackendNSerio - copia\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\ProyectoNserio\backend\BackendNSerio\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\Nserio-FullStack-TeamTasks-main\Nserio-FullStack-TeamTasks-main\backend\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.sourcelink.json
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Downloads\FullStack\backend\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Dal.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Dto.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Dal.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\bin\Debug\net8.0\Dto.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.sourcelink.json
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Nicol\Documents\Nserio-FullStack-TeamTasks\backend\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
